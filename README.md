@@ -1,5 +1,8 @@
 # **Corrida Infinita: Desafios à Frente**
 
+![Corrida Infinita](https://github.com/EduardoDosSantosFerreira/LCD-GAME/blob/main/LCD-GAME.png)
+
+
 Bem-vindo ao "Corrida Infinita", um jogo simples e emocionante onde você assume o controle de um personagem ágil em uma corrida sem fim, saltando sobre obstáculos para alcançar a maior distância possível.
 
 ## **Instruções:**
